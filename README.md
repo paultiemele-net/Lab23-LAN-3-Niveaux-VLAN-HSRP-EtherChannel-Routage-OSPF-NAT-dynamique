@@ -1,0 +1,2 @@
+# Lab23-LAN-3-Niveaux-VLAN-HSRP-EtherChannel-Routage-OSPF-NAT-dynamique
+This repository presents a comprehensive three-tier enterprise network lab designed to demonstrate redundancy, scalability, and dynamic internet access using Cisco technologies.  The architecture is built around access (L2), distribution/core (L3), and edge routing layers. Multiple Layer 2 access switches host end devices across two VLANs
